@@ -16,6 +16,8 @@ namespace BankApp
         public int balanse { get; set; }
         public string pin { get; set; }
 
+        public string IIS;
+
         //public User(string login, string password, string card_number)
         //{
         //    this.card_namber = card_namber;
